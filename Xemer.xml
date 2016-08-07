@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.shivams334.xemer.MainActivity"
+    android:background="#FFFFF">
+
+    <TextView
+        android:background="#FF80AB"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Hello World!"
+        android:textColor="#FAFAFA"
+        android:textSize="65sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:background="#FF4081"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Shivam"
+        android:textColor="#FAFAFA"
+        android:textSize="95sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:background="#F50057"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Sharma"
+        android:textColor="#FAFAFA"
+        android:textSize="95sp"
+        android:textStyle="bold"/>
+</LinearLayout>
